@@ -1,4 +1,5 @@
 _repo: Gestalten-der-Wildnis_48639
+_version: 0.1.0
 contributor:
   illustrators:
   - agent_name: Behrmann, A.
@@ -14,6 +15,9 @@ contributor:
     agent_name: Olden, Balder
     gutenberg_agent_id: '44898'
     url: http://www.gutenberg.org/2009/agents/44898
+covers:
+- cover_type: archival
+  image_path: 48639-h/images/cover.jpg
 creator:
   author:
     agent_name: Roberts, Charles G. D., Sir
@@ -26,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2272
     wikipedia: http://en.wikipedia.org/wiki/Charles_G._D._Roberts
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48639#Gestalten-der-Wildnis
 gutenberg_issued: '2015-04-05'
 gutenberg_type: Text
 identifiers:
